@@ -42,7 +42,7 @@ Download or Clone this repo:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/devjobs-job-board.git
+git clone https://github.com/06318Ganesh/devjobs-job-board.git
 Open the index.html file in any browser (Chrome, Firefox, Edge).
 
 💻 Responsive view can be tested by resizing the browser window.
